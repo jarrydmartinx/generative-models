@@ -11,6 +11,6 @@ Libraries and tools used:
 * Some use the Sonnet library of abstractions for ML research https://sonnet.readthedocs.io/en/latest/, and some use Keras https://www.tensorflow.org/guide/keras
 
 To date I've implemented the following generative models:
-* **Variational Autoencoder**: 
-  * Original paper: https://arxiv.org/pdf/1312.6114.pdf 
-  * Great explanation: https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
+ **Variational Autoencoder**
+ * Original paper: https://arxiv.org/pdf/1312.6114.pdf 
+ * Great explanation: https://jaan.io/what-is-variational-autoencoder-vae-tutorial/
